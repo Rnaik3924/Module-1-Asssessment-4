@@ -1,0 +1,16 @@
+table{
+     font-family: Helvetica, sans-serif;
+     border-collapse: collapse;
+     border-width: 1px;
+     border-style: solid;
+     border-color: royalblue;
+}
+th{
+   font-weight: 800;
+    background-color: royalblue;
+    color: #ffffff;
+}
+
+tr.alt td{
+    background-color: #9AEFFC;
+}
